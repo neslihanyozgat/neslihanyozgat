@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neslihanyozgat
 - 👀 I’m interested in front end developer
-- 🌱 I’m currently learning HTLM CSS JavaScript
+- 🌱 I’m currently learning HTLM,CSS and JavaScript
 - 📫 How to reach me neslihanyozgat2001@gmail.com
 
 <!---
